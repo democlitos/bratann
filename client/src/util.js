@@ -794,3 +794,5 @@ function propWatch(obj, prop, displayFn, makeProxy) {
     }
   });
 }
+
+module.exports = Util;

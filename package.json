@@ -1,0 +1,20 @@
+{
+  "name": "bratann",
+  "version": "0.0.1",
+  "description": "Annotator part from brat rapid annotation tool",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/democlitos/brat.git"
+  },
+  "keywords": [
+    "brat",
+    "annotation"
+  ],
+  "author": "FORMAS",
+  "bugs": {
+    "url": "https://github.com/democlitos/brat/issues"
+  },
+  "homepage": "https://github.com/democlitos/brat#readme",
+  "dependencies": {}
+}
