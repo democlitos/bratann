@@ -1,21 +1,6 @@
-# brat rapid annotation tool (brat) #
+# bratann - the annotation part from brat
 
-## Documentation ##
-
-In an attempt to keep all user-facing documentation in one place, please visit
-the [brat homepage][brat] which contains extensive documentation and examples
-of how to use and configure brat. We apologise for only providing minimal
-documentation along with the installation package but the risk of having
-out-dated documentation delivered to our end-users is unacceptable.
-
-If you find bugs in your brat installation or errors in the documentation,
-please file an issue at our [issue tracker][brat_issues] and we will strive to
-address it promptly.
-
-[brat]:         http://brat.nlplab.org
-[brat_issues]:  https://github.com/nlplab/brat/issues
-
-## About brat ##
+## About [brat][brat] ##
 
 *brat* (brat rapid annotation tool) is based on the [stav][stav] visualiser
 which was originally made in order to visualise
@@ -25,6 +10,7 @@ Recently, brat has been widely adopted in the community. It has been used to
 create well-over 50,000 annotations by the [Genia group][genia] and several
 other international research groups for a number of annotation projects.
 
+[brat]:             https://github.com/nlplab/brat
 [stav]:             https://github.com/nlplab/stav/
 [bionlp_2011_st]:   http://2011.bionlp-st.org/
 [genia]:            http://www.geniaproject.org/
@@ -93,27 +79,3 @@ the brat homepage:
     ...the brat rapid annotation tool\footnote{
         \url{http://brat.nlplab.org}
     }
-
-## Contributing ##
-
-As with any software brat is under continuous development. If you have
-requests for features please [file an issue][brat_issues] describing your
-request. Also, if you want to see work towards a specific feature feel free to
-contribute by working towards it. The standard procedure is to fork the
-repository, add a feature, fix a bug, then file a pull request that your
-changes are to be merged into the main repository and included in the next
-release. If you seek guidance or pointers please notify the brat developers
-and we will be more than happy to help.
-
-If you send a pull request you agree that the code will be distributed under
-the same license as brat (MIT). Additionally, all non-anonymous contributors
-are recognised in the CONTRIBUTORS.md file.
-
-## Contact ##
-
-For help and feedback please contact the authors below, preferably with all on
-them on CC since their responsibilities and availability may vary:
-
-* Goran Topić       &lt;amadanmath gmail com&gt;
-* Sampo Pyysalo     &lt;sampo.pyysalo gmail com&gt;
-* Pontus Stenetorp  &lt;pontus stenetorp se&gt;
