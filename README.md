@@ -1,35 +1,8 @@
 # bratann - the annotation part from brat
 
-## About [brat][brat] ##
-
-*brat* (brat rapid annotation tool) is based on the [stav][stav] visualiser
-which was originally made in order to visualise
-[BioNLP'11 Shared Task][bionlp_2011_st] data. brat aims to provide an
-intuitive and fast way to create text-bound and relational annotations.
-Recently, brat has been widely adopted in the community. It has been used to
-create well-over 50,000 annotations by the [Genia group][genia] and several
-other international research groups for a number of annotation projects.
+Access brat original repository [here][brat].
 
 [brat]:             https://github.com/nlplab/brat
-[stav]:             https://github.com/nlplab/stav/
-[bionlp_2011_st]:   http://2011.bionlp-st.org/
-[genia]:            http://www.geniaproject.org/
-
-brat aims to overcome short-comings of previous annotation tools such as:
-
-* De-centralisation of configurations and data, causing synchronisation issues
-* Annotations and related text not being visually adjacent
-* Complexity of set-up for annotators
-* Etc.
-
-brat does this by:
-
-* Data and configurations on a central web server (as Mark Twain said:
-    "Put all your eggs in one basket, and then guard that basket!")
-* Present text as it would appear to a reader and maintain annotations close
-    to the text
-* Zero set-up for annotators, leave configurations and server/data maintenance
-    to other staff
 
 ## License ##
 
