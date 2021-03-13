@@ -1,6 +1,6 @@
 # bratann - the annotation part from brat
 
-Access brat original repository [here][brat].
+Just the essential to use brat annotation tool in the frontend (updated to be React compatible). Access brat original repository [here][brat].
 
 [brat]:             https://github.com/nlplab/brat
 
