@@ -1,6 +1,6 @@
 {
   "name": "bratann",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Annotator part from brat rapid annotation tool",
   "main": "index.js",
   "repository": {
@@ -11,7 +11,7 @@
     "brat",
     "annotation"
   ],
-  "author": "FORMAS",
+  "author": "Manoel M. Neto",
   "bugs": {
     "url": "https://github.com/democlitos/brat/issues"
   },
